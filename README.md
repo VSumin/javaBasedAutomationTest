@@ -1,6 +1,12 @@
 # javaBasedAutomationTest
 
-'mvn clean test' to run tests
+Env:
+cd PetClinic
+./mvnw package
+./mvnw spring-boot:run
+
+Tests:
+'mvn clean test'
 
 The framework is based on Selenide https://selenide.org/ https://github.com/selenide/selenide
 
