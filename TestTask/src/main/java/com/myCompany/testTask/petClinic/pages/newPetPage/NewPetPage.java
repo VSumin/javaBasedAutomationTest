@@ -1,8 +1,8 @@
 package com.myCompany.testTask.petClinic.pages.newPetPage;
 
-import com.myCompany.testTask.petClinic.Elements.WebButton;
-import com.myCompany.testTask.petClinic.Elements.WebDropdown;
-import com.myCompany.testTask.petClinic.Elements.WebTextField;
+import com.myCompany.testTask.petClinic.elements.WebButton;
+import com.myCompany.testTask.petClinic.elements.WebDropdown;
+import com.myCompany.testTask.petClinic.elements.WebTextField;
 import com.myCompany.testTask.petClinic.pages.common.BasePage;
 import org.openqa.selenium.By;
 

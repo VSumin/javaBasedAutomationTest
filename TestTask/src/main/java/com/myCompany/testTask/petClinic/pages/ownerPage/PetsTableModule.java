@@ -1,7 +1,7 @@
 package com.myCompany.testTask.petClinic.pages.ownerPage;
 
-import com.myCompany.testTask.petClinic.Elements.WebElement;
-import com.myCompany.testTask.petClinic.Elements.WebLabel;
+import com.myCompany.testTask.petClinic.elements.WebElement;
+import com.myCompany.testTask.petClinic.elements.WebLabel;
 import com.myCompany.testTask.petClinic.objects.Visit;
 import org.openqa.selenium.By;
 

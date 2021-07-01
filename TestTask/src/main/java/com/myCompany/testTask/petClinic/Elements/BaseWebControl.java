@@ -1,4 +1,4 @@
-package com.myCompany.testTask.petClinic.Elements;
+package com.myCompany.testTask.petClinic.elements;
 
 import com.codeborne.selenide.SelenideElement;
 import org.openqa.selenium.By;

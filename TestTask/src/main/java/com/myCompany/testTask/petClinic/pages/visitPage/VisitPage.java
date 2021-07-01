@@ -1,7 +1,7 @@
 package com.myCompany.testTask.petClinic.pages.visitPage;
 
 import com.codeborne.selenide.SelenideElement;
-import com.myCompany.testTask.petClinic.Elements.WebTextField;
+import com.myCompany.testTask.petClinic.elements.WebTextField;
 import com.myCompany.testTask.petClinic.pages.common.BasePage;
 import org.openqa.selenium.By;
 

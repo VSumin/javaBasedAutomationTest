@@ -1,6 +1,6 @@
 package com.myCompany.testTask.petClinic.pages.homePage;
 
-import com.myCompany.testTask.petClinic.Elements.WebElement;
+import com.myCompany.testTask.petClinic.elements.WebElement;
 import com.myCompany.testTask.petClinic.pages.common.BasePage;
 import org.openqa.selenium.By;
 

@@ -1,7 +1,7 @@
 package com.myCompany.testTask.petClinic.pages.findOwnerPage;
 
-import com.myCompany.testTask.petClinic.Elements.WebButton;
-import com.myCompany.testTask.petClinic.Elements.WebTextField;
+import com.myCompany.testTask.petClinic.elements.WebButton;
+import com.myCompany.testTask.petClinic.elements.WebTextField;
 import com.myCompany.testTask.petClinic.pages.common.BasePage;
 import org.openqa.selenium.By;
 

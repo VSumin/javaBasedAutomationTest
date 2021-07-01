@@ -1,6 +1,6 @@
 package com.myCompany.testTask.petClinic.pages.veterinariansPage;
 
-import com.myCompany.testTask.petClinic.Elements.WebElement;
+import com.myCompany.testTask.petClinic.elements.WebElement;
 import org.openqa.selenium.By;
 
 public class VeterinariansTable {
