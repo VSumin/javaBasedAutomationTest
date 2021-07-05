@@ -1,6 +1,8 @@
 # javaBasedAutomationTest
 
 Env:
+Gui by https://github.com/spring-projects/spring-petclinic
+
 ```
 cd PetClinic
 ./mvnw package
